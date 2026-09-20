@@ -2,7 +2,7 @@
 <package format="3">
   <name>insta360_usb_cam</name>
   <version>0.0.1</version>
-  <description>insta360_link 의 usb_cam(pan_tilt_camera_node) 독립 패키지 복사본</description>
+  <description>Insta360 USB Camera Node</description>
 
   <maintainer email="hyuncs363@gmail.com">bws</maintainer>
   <license>Apache-2.0</license>
